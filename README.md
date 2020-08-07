@@ -1,4 +1,5 @@
 # Books
-This is the complete javascript based todo app 
-This is very good looking app , here u can post your things which you have to do and when the things get done you can check it or done and also you can delete it forever
-WARNING:- The refresh icon here refreshes the the whole page and removes the all things that you had stored in todo  
+This is complete javascript based app
+Here you can put any of the books cover and decide the name of author and can write a description about that 
+it will show the exact name of the author , the exact published date , and the number of pagess of that book cover
+
